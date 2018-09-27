@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: /Kalle-Raus/gatsby-netlify
+  repo: Kalle-Raus/gatsby-netlify
 
 media_folder: static/assets
 public_folder: assets
